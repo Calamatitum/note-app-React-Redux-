@@ -1,3 +1,6 @@
+This simple CRUD-application was built using React and Redux.
+It is available on GitHub Pages: https://calamatitum.github.io/note-app-React-Redux/.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
