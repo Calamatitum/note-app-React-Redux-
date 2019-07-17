@@ -1,0 +1,12 @@
+.moreIcon:hover {
+	color: #1890ff;
+	cursor: pointer;
+	transform: rotate(90deg);
+}
+
+.date {
+	float: right;
+	font-size: 0.7em;
+	font-style: italic;
+}
+
