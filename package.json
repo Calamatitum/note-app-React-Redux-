@@ -2,7 +2,7 @@
   "name": "note-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Calamatitum/note-app-React-Redux",
+  "homepage": "https://calamatitum.github.io/note-app-React-Redux",
   "dependencies": {
     "antd": "^3.19.8",
     "gh-pages": "^2.0.1",
